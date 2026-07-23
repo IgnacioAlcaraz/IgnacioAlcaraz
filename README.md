@@ -25,8 +25,8 @@ objetivo: Crecer como desarrollador y construir proyectos útiles
 
 | 💬 | Info |
 |---|---|
-| 🔭 Working on | [inmobiliaria](https://github.com/IgnacioAlcaraz/inmobiliaria) · [liftClubProyect](https://github.com/IgnacioAlcaraz/liftClubProyect) |
-| 🌱 Learning | JavaScript · Web Development |
+| 🔭 Working on | Beacon AI |
+| 🌱 Learning | Automatización de procesos con LangChain |
 | 🤝 Open to | Colaborar en proyectos interesantes |
 | 📫 Contact | [GitHub](https://github.com/IgnacioAlcaraz) |
 
@@ -62,26 +62,6 @@ objetivo: Crecer como desarrollador y construir proyectos útiles
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=IgnacioAlcaraz&theme=tokyonight&hide_border=true&background=0D1117&ring=1a73e8&fire=00d4ff&currStreakLabel=00d4ff" width="700"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IgnacioAlcaraz&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="700"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IgnacioAlcaraz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1a73e8&line=00d4ff&point=ffffff" width="700"/>
 
 </div>
 
