@@ -17,7 +17,7 @@
 nombre: Ignacio Alcaraz
 ubicación: Argentina 🇦🇷
 enfoque: Desarrollo Web
-aprendiendo: JavaScript · Nuevas tecnologías
+aprendiendo: LangGraph · Nuevas tecnologías
 objetivo: Crecer como desarrollador y construir proyectos útiles
 ```
 
