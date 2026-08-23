@@ -26,7 +26,7 @@ objetivo: Crecer como desarrollador y construir proyectos útiles
 | 💬 | Info |
 |---|---|
 | 🔭 Working on | Beacon AI |
-| 🌱 Learning | Automatización de procesos con LangChain |
+| 🌱 Learning | Automatización de procesos con LangGraph |
 | 🤝 Open to | Colaborar en proyectos interesantes |
 | 📫 Contact | [GitHub](https://github.com/IgnacioAlcaraz) |
 
