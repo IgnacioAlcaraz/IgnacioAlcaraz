@@ -53,14 +53,6 @@ objetivo: Crecer como desarrollador y construir proyectos útiles
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IgnacioAlcaraz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=00d4ff&text_color=c9d1d9&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioAlcaraz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=6" height="170"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=IgnacioAlcaraz&theme=tokyonight&hide_border=true&background=0D1117&ring=1a73e8&fire=00d4ff&currStreakLabel=00d4ff" width="700"/>
 
 </div>
