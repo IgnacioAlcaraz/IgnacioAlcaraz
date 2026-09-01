@@ -53,7 +53,7 @@ objetivo: Crecer como desarrollador y construir proyectos útiles
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=IgnacioAlcaraz&theme=tokyonight&hide_border=true&background=0D1117&ring=1a73e8&fire=00d4ff&currStreakLabel=00d4ff" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=IgnacioAlcaraz&theme=tokyonight&hide_border=true&background=0D1117&ring=1a73e8&fire=00d4ff&currStreakLabel=00d4ff&hide_current_streak=true&hide_longest_streak=true" width="700"/>
 
 </div>
 
